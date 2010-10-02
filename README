@@ -1,0 +1,5 @@
+base: http://agileskills2.org/blog/2010/06/19/getting-started-with-scala-spring-hibernate-wicket
+
+simple setup of scala with wicket and hibernate
+
+example of Spring IOC using scala (CRUD alternative to liftweb) 
