@@ -38,12 +38,12 @@
             <url>http://download.java.net/maven/2</url>
         </repository>
         <repository>
-            <id>scala-tools.org</id>
+            <id>scala-tools.org-releases</id>
             <name>Scala-tools Maven2 Repository</name>
             <url>http://scala-tools.org/repo-releases</url>
         </repository>
         <repository>
-            <id>scala-tools.org</id>
+            <id>scala-tools.org-snapshots</id>
             <name>Scala-tools Maven2 Repository</name>
             <url>http://scala-tools.org/repo-snapshots</url>
         </repository>
